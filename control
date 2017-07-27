@@ -1,0 +1,9 @@
+Package: com.wizages.itgettinghotinhere
+Name: It Getting Hot in Here!
+Depends: mobilesubstrate, libstatusbar (>= 1:0.0.9.0-1), firmware(<< 9.1) | org.thebigboss.libstatus9 (>= 1:0.0.1.5-0)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: wizages
+Author: wizages
+Section: Tweaks
