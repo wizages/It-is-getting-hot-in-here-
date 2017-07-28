@@ -1,7 +1,7 @@
 Package: com.wizages.itgettinghotinhere
 Name: It Getting Hot in Here!
-Depends: mobilesubstrate, firmware (>> 9.0.2) | libstatusbar , firmware(<< 9.1) | org.thebigboss.libstatus9
-Version: 0.1.3
+Depends: mobilesubstrate, firmware (>> 9.0.2) | libstatusbar , firmware(<< 9.1) | org.thebigboss.libstatus9, ws.hbang.common
+Version: 0.2
 Architecture: iphoneos-arm
 Description: Adds current tempature to your statusbar or some shit like that!
 Maintainer: wizages <wizagesmax@gmail.com>
